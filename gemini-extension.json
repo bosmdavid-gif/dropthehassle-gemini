@@ -1,7 +1,7 @@
 {
   "name": "dropthehassle",
   "version": "1.0.0",
-  "description": "Put your site online from Gemini CLI. Free link with HTTPS, no token needed. Your own .com is €19 / $19 a year.",
+  "description": "Put the site your AI built online on a free HTTPS link, check domains, and let the human buy .com/.org/.net for €19 / $19 a year with no DNS.",
   "mcpServers": {
     "dropthehassle": {
       "httpUrl": "https://dropthehassle.com/mcp"
