@@ -1,6 +1,6 @@
 {
   "name": "dropthehassle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Put the site your AI built online on a free HTTPS link, check domains, and let the human buy .com/.org/.net for €19 / $19 a year with no DNS.",
   "mcpServers": {
     "dropthehassle": {
